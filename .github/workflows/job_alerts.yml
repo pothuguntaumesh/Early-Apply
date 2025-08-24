@@ -31,9 +31,11 @@ jobs:
       - name: Run crawler (worker.py)
         run: |
           source venv/bin/activate
-          python src/crawler/worker.py
+          cd src
+          python crawler/worker.py
 
       - name: Run notifier (notifier.py)
         run: |
           source venv/bin/activate
-          python src/notifications/email_service.py
+          cd src
+          python notifications/email_service.py
