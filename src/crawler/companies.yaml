@@ -1,0 +1,727 @@
+- name: "Addepar"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/addepar1/jobs"
+
+- name: "Adobe"
+  feeds:
+    - ats: "Workday"
+      url: "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced"
+
+#Verified
+- name: "Affirm"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/affirm/jobs"
+
+#Verified
+- name: "Airbnb"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/airbnb/jobs"
+
+- name: "American Express"
+  feeds:
+    - ats: "Workday"
+      url: "https://americanexpress.wd1.myworkdayjobs.com/AmexCareers"
+
+- name: "Amazon"
+  feeds:
+    - ats: "Workday"
+      url: "https://www.amazon.jobs/en/search"
+    - ats: "iCIMS"
+      url: "https://amazon.icims.com/jobs/search"
+
+- name: "Anthropic"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs?for=stripe&content=jobs"
+
+- name: "Appian"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/appian/jobs"
+
+- name: "Apple"
+  feeds:
+    - ats: "Custom"
+      url: "https://jobs.apple.com/en-us/search"
+
+- name: "Applovin"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/applovin/jobs"
+
+- name: "Aptos"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/aptoslabs/jobs"
+
+- name: "Audible"
+  feeds:
+    - ats: "Workday"
+      url: "https://audible.wd5.myworkdayjobs.com/audible"
+
+- name: "Autodesk"
+  feeds:
+    - ats: "Workday"
+      url: "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext"
+
+#Verified
+- name: "Barclays"
+  feeds:
+    - ats: "Workday"
+      url: "https://barclays.wd1.myworkdayjobs.com/Barclays_Careers"
+
+- name: "Bank of America"
+  feeds:
+    - ats: "Workday"
+      url: "https://careers.bankofamerica.com/en-us/job-search"
+
+- name: "BlackRock"
+  feeds:
+    - ats: "Workday"
+      url: "https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professional/jobs"
+
+- name: "Bloomberg"
+  feeds:
+    - ats: "Workday"
+      url: "https://bloomberg.wd1.myworkdayjobs.com/ExternalSite"
+
+#Verified
+- name: "Box"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/boxinc/jobs"
+
+#Verified
+- name: "Brex"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/brex/jobs"
+
+- name: "Bytedance"
+  feeds:
+    - ats: "Workday"
+      url: "https://bytedance.wd3.myworkdayjobs.com/en-US/ByteDance"
+
+- name: "Capital One"
+  feeds:
+    - ats: "Workday"
+      url: "https://capitalone.wd1.myworkdayjobs.com/Capital_One"
+
+- name: "Candid Health"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/candidhealth"
+
+- name: "Citadel"
+  feeds:
+    - ats: "Workday"
+      url: "https://citadel.wd5.myworkdayjobs.com/CitadelCareers"
+
+- name: "Cisco"
+  feeds:
+    - ats: "Avature"
+      url: "https://jobs.cisco.com/jobs/SearchJobs"
+
+- name: "Citrix"
+  feeds:
+    - ats: "Workday"
+      url: "https://citrix.wd5.myworkdayjobs.com/Jobs"
+
+- name: "Cloudera"
+  feeds:
+    - ats: "Workday"
+      url: "https://cloudera.wd1.myworkdayjobs.com/en-US/External"
+
+- name: "Cloudflare"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs"
+
+- name: "ContentSquare"
+  feeds:
+    - ats: "Lever"
+      url: "https://api.lever.co/v0/postings/contentsquare"
+
+- name: "Coinbase"
+  feeds:
+    - ats: "Custom"
+      url: "https://www.coinbase.com/careers/search"
+
+- name: "Credit Karma"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/creditkarma/jobs"
+
+- name: "CrowdStrike"
+  feeds:
+    - ats: "Workday"
+      url: "https://crowdstrike.wd5.myworkdayjobs.com/CrowdStrikeCareers"
+
+- name: "Cruise"
+  feeds:
+    - ats: "custom"
+      url: "https://jobs.ashbyhq.com/cruise"
+
+- name: "CVS Health"
+  feeds:
+    - ats: "Workday"
+      url: "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health"
+
+- name: "Databricks"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+
+- name: "Datadog"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/datadog/jobs"
+
+- name: "DE Shaw"
+  feeds:
+    - ats: "Workday"
+      url: "https://deshaw.wd1.myworkdayjobs.com/DEShawCareers"
+
+- name: "Deloitte"
+  feeds:
+    - ats: "Workday"
+      url: "https://deloitte.wd1.myworkdayjobs.com/DeloitteCareers"
+
+- name: "Disney"
+  feeds:
+    - ats: "Taleo"
+      url: "https://disney.taleo.net/careersection/3/jobsearch.ftl"
+
+- name: "DoorDash"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/doordashusa/jobs"
+
+- name: "Dropbox"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/dropbox/jobs"
+
+- name: "Duolingo"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/duolingo/jobs"
+
+- name: "EAB"
+  feeds:
+    - ats: "Workday"
+      url: "https://eab.wd1.myworkdayjobs.com/Careers"
+
+- name: "eBay"
+  feeds:
+    - ats: "Workday"
+      url: "https://ebay.wd5.myworkdayjobs.com/External"
+
+- name: "Elastic"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/elastic/jobs"
+
+- name: "Epic Games"
+  feeds:
+    - ats: "Workday"
+      url: "https://epicgames.wd5.myworkdayjobs.com/Epic_Games_Careers"
+
+- name: "Esri"
+  feeds:
+    - ats: "Workday"
+      url: "https://esri.wd1.myworkdayjobs.com/External"
+
+- name: "Exiger"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/exiger/jobs"
+
+- name: "Expedia"
+  feeds:
+    - ats: "Workday"
+      url: "https://expedia.wd5.myworkdayjobs.com/careers"
+
+- name: "EY"
+  feeds:
+    - ats: "Taleo"
+      url: "https://ey.taleo.net/careersection/jobsearch.ftl"
+
+- name: "Fidelity"
+  feeds:
+    - ats: "Workday"
+      url: "https://fidelity.wd5.myworkdayjobs.com/en-US/FidelityCareers"
+
+- name: "Figma"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/figma/jobs"
+
+- name: "Fiserv"
+  feeds:
+    - ats: "Workday"
+      url: "https://fiserv.wd1.myworkdayjobs.com/Fiserv_Careers"
+
+#Verified but Icims can't be automated
+- name: "GitHub"
+  feeds:
+    - ats: "Icims"
+      url: "https://jobs.lever.co/github"
+
+- name: "Goldman Sachs"
+  feeds:
+    - ats: "Oracle ORC"
+      url: "https://goldmansachs.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX"
+
+- name: "Google"
+  feeds:
+    - ats: "Custom"
+      url: "https://careers.google.com/jobs/results"
+
+- name: "Grok"
+  feeds:
+    - ats: "Workday"
+      url: "https://grok.wd5.myworkdayjobs.com/Grok"
+
+- name: "HashiCorp"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/HashiCorp/jobs"
+
+- name: "Hewlett-Packard Enterprises"
+  feeds:
+    - ats: "Workday"
+      url: "https://hpe.wd5.myworkdayjobs.com/Jobs_at_HPE"
+
+- name: "HomeBase"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/homebase"
+
+- name: "HubSpot"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/hubspotjobs/jobs"
+
+- name: "Hudson River Trading"
+  feeds:
+    - ats: "Custom"
+      url: "https://boards.greenhouse.io/hudsonrivertrading"
+
+- name: "IBM"
+  feeds:
+    - ats: "Workday"
+      url: "https://ibm.wd1.myworkdayjobs.com/External_CareerSite"
+
+- name: "IMC Trading"
+  feeds:
+    - ats: "Custom"
+      url: "https://boards.greenhouse.io/imc"
+
+- name: "Instacart"
+  feeds:
+    - ats: "Workday"
+      url: "https://instacart.wd1.myworkdayjobs.com/InstacartCareers"
+
+- name: "Intel"
+  feeds:
+    - ats: "Workday"
+      url: "https://intel.wd1.myworkdayjobs.com/External"
+
+- name: "Intuit"
+  feeds:
+    - ats: "Workday"
+      url: "https://intuit.wd1.myworkdayjobs.com/External"
+
+- name: "IXL Learning"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/ixllearning/jobs"
+
+- name: "Jerry"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/jerry.ai"
+
+- name: "JP Morgan"
+  feeds:
+    - ats: "Oracle ORC"
+      url: "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX"
+    - ats: "Taleo"
+      url: "https://jpmchase.taleo.net/careersection/2/jobsearch.ftl"
+
+- name: "Juniper"
+  feeds:
+    - ats: "Workday"
+      url: "https://juniper.wd1.myworkdayjobs.com/JuniperCareers"
+
+- name: "Kikoff"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/kikoff"
+
+- name: "FourKites"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/fourkites/jobs"
+
+- name: "Lenovo"
+  feeds:
+    - ats: "Workday"
+      url: "https://lenovo.wd1.myworkdayjobs.com/External"
+
+- name: "LinkedIn"
+  feeds:
+    - ats: "Workday"
+      url: "https://linkedin.wd1.myworkdayjobs.com/linkedin"
+
+- name: "Lucid Motors"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/lucidmotors/jobs"
+
+#Verified
+- name: "Lyft"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/lyft/jobs"
+
+- name: "Major League Baseball"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/majorleaguebaseball/jobs"
+
+- name: "MasterCard"
+  feeds:
+    - ats: "Workday"
+      url: "https://mastercard.wd1.myworkdayjobs.com/External"
+
+- name: "MathWorks"
+  feeds:
+    - ats: "Workday"
+      url: "https://mathworks.wd5.myworkdayjobs.com/MathWorks"
+
+- name: "McKinsey"
+  feeds:
+    - ats: "Workday"
+      url: "https://mckinsey.wd5.myworkdayjobs.com/McKinsey_Careers"
+
+- name: "Meta"
+  feeds:
+    - ats: "Workday"
+      url: "https://facebook.wd5.myworkdayjobs.com/MetaCareers"
+
+- name: "Microsoft"
+  feeds:
+    - ats: "Workday"
+      url: "https://careers.microsoft.com/"
+
+- name: "Morgan Stanley"
+  feeds:
+    - ats: "Workday"
+      url: "https://morganstanley.wd1.myworkdayjobs.com/en-US/Morgan_Stanley_Careers"
+
+- name: "Moveworks"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/Moveworks/jobs"
+
+- name: "NetApp"
+  feeds:
+    - ats: "Workday"
+      url: "https://netapp.wd1.myworkdayjobs.com/en-US/External"
+
+- name: "Netflix"
+  feeds:
+    - ats: "Workday"
+      url: "https://jobs.netflix.com/search"
+
+- name: "Nike"
+  feeds:
+    - ats: "Workday"
+      url: "https://nike.wd1.myworkdayjobs.com/en-US/NikeCareers"
+    - ats: "Avature"
+      url: "https://nikeats.avature.net/Nike"
+
+- name: "Nimble"
+  feeds:
+    - ats: "Lever"
+      url: "https://api.lever.co/v0/postings/nimblerx?mode=json"
+
+- name: "Noetica"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/noetica"
+
+- name: "Nokia"
+  feeds:
+    - ats: "Taleo"
+      url: "https://nokia.taleo.net/careersection/2/jobsearch.ftl"
+
+- name: "Nordstrom"
+  feeds:
+    - ats: "Workday"
+      url: "https://nordstrom.wd1.myworkdayjobs.com/Nordstrom_Careers"
+
+#Verified
+- name: "Notion"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/notion"
+
+- name: "Nuro"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/nuro/jobs"
+
+- name: "Nutanix"
+  feeds:
+    - ats: "Jobvite"
+      url: "https://boards.greenhouse.io/nutanix"
+
+- name: "NVIDIA"
+  feeds:
+    - ats: "Workday"
+      url: "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+
+#Verified
+- name: "OpenAI"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/openai"
+
+- name: "Optiver"
+  feeds:
+    - ats: "Workday"
+      url: "https://optiver.wd3.myworkdayjobs.com/ExternalCareers"
+
+- name: "Oracle"
+  feeds:
+    - ats: "Taleo"
+      url: "https://oracle.taleo.net/careersection/2/jobsearch.ftl"
+
+#Verified
+- name: "Palantir"
+  feeds:
+    - ats: "Lever"
+      url: "https://api.lever.co/v0/postings/palantir"
+
+- name: "Pave"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/paveakatroveinformationtechnologies/jobs"
+
+- name: "PayPal"
+  feeds:
+    - ats: "Workday"
+      url: "https://paypal.wd1.myworkdayjobs.com/External"
+
+- name: "Pinterest"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/pinterest/jobs"
+
+#Verified
+- name: "Plaid"
+  feeds:
+    - ats: "Lever"
+      url: "https://api.lever.co/v0/postings/plaid"
+
+- name: "Qualcomm"
+  feeds:
+    - ats: "Workday"
+      url: "https://qualcomm.wd5.myworkdayjobs.com/External"
+
+#Verified
+- name: "Qualtrics"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/qualtrics/jobs"
+
+- name: "Quora"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/quora"
+
+#Verified
+- name: "Ramp"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/ramp"
+
+- name: "Red Hat"
+  feeds:
+    - ats: "Workday"
+      url: "https://redhat.wd5.myworkdayjobs.com/RedHatCareers"
+
+#Verified
+- name: "Reddit"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/reddit/jobs"
+
+#Verified
+- name: "Rivian"
+  feeds:
+    - ats: "iCIMS"
+      url: "https://jobs.icims.com/rivian"
+
+#Verified
+- name: "Robinhood"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/Robinhood/jobs"
+
+- name: "Rippling"
+  feeds:
+    - ats: "Rippling"
+      url: "https://boards.greenhouse.io/rippling"
+
+- name: "Rubrik"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/rubrik/jobs"
+
+- name: "Runpod"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/runpod/jobs"
+
+- name: "Salesforce"
+  feeds:
+    - ats: "Workday"
+      url: "https://salesforce.wd1.myworkdayjobs.com/External_Career_Site"
+
+- name: "Samsung"
+  feeds:
+    - ats: "Workday"
+      url: "https://samsung.wd1.myworkdayjobs.com/Samsung_Careers"
+
+- name: "ServiceNow"
+  feeds:
+    - ats: "Workday"
+      url: "https://servicenow.wd1.myworkdayjobs.com/nowcareers"
+
+- name: "Sigma"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/sigmacomputing/jobs"
+
+- name: "Slack"
+  feeds:
+    - ats: "Workday"
+      url: "https://slack.wd5.myworkdayjobs.com/Slack"
+
+- name: "Snap"
+  feeds:
+    - ats: "Workday"
+      url: "https://snap.wd5.myworkdayjobs.com/Snap_Careers"
+
+- name: "Snowflake"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/snowflake"
+
+- name: "Sony"
+  feeds:
+    - ats: "Workday"
+      url: "https://sony.wd1.myworkdayjobs.com/SonyCareers"
+
+#Verified
+- name: "SpaceX"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/spacex/jobs"
+
+- name: "Splunk"
+  feeds:
+    - ats: "Workday"
+      url: "https://splunk.wd5.myworkdayjobs.com/en-US/Careers"
+
+- name: "Spotify"
+  feeds:
+    - ats: "Lever"
+      url: "https://api.lever.co/v0/postings/spotify"
+
+- name: "Square"
+  feeds:
+    - ats: "Workday"
+      url: "https://square.wd5.myworkdayjobs.com/Square"
+
+- name: "Stripe"
+  feeds:
+    - ats: "Workday"
+      url: "https://stripe.wd1.myworkdayjobs.com/StripeCareers"
+
+- name: "Tesla"
+  feeds:
+    - ats: "Workday"
+      url: "https://tesla.wd5.myworkdayjobs.com/TeslaCareers"
+
+- name: "Tinder"
+  feeds:
+    - ats: "Lever"
+      url: "https://api.lever.co/v0/postings/matchgroup"
+
+- name: "Truveta"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/truveta/jobs"
+
+- name: "Twilio"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/twilio/jobs"
+
+- name: "Uber"
+  feeds:
+    - ats: "Workday"
+      url: "https://uber.wd5.myworkdayjobs.com/ucd-careers"
+
+- name: "Viasat"
+  feeds:
+    - ats: "Workday"
+      url: "https://viasat.wd5.myworkdayjobs.com/ViasatCareers"
+
+- name: "Venmo"
+  feeds:
+    - ats: "Workday"
+      url: "https://venmo.wd1.myworkdayjobs.com/Venmo"
+
+- name: "Visa"
+  feeds:
+    - ats: "SmartRecruiters"
+      url: "https://visa.wd1.myworkdayjobs.com/Careers"
+
+- name: "VMware"
+  feeds:
+    - ats: "Workday"
+      url: "https://vmware.wd1.myworkdayjobs.com/VMwareCareers"
+
+- name: "Walmart"
+  feeds:
+    - ats: "Workday"
+      url: "https://walmart.wd5.myworkdayjobs.com/WalmartExternal"
+
+- name: "Wayfair"
+  feeds:
+    - ats: "Workday"
+      url: "https://wayfair.wd5.myworkdayjobs.com/External"
+
+- name: "Wells Fargo"
+  feeds:
+    - ats: "Workday"
+      url: "https://wellsfargo.wd5.myworkdayjobs.com/External"
+
+- name: "Western Digital"
+  feeds:
+    - ats: "Workday"
+      url: "https://westerndigital.wd1.myworkdayjobs.com/External"
+
+- name: "Yelp"
+  feeds:
+    - ats: "Workday"
+      url: "https://yelp.wd5.myworkdayjobs.com/yelp"
