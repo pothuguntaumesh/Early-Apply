@@ -1,0 +1,39 @@
+name: EarlyApply – Job Crawler & Email Notifier
+
+on:
+  schedule:
+    - cron: "*/15 * * * *" # Every 15 minutes UTC
+  workflow_dispatch:
+
+jobs:
+  job-alert-runner:
+    runs-on: ubuntu-latest
+
+    env:
+      DATABASE_URL: ${{ secrets.DATABASE_URL }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m venv venv
+          source venv/bin/activate
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run crawler (worker.py)
+        run: |
+          source venv/bin/activate
+          python src/crawler/worker.py
+
+      - name: Run notifier (notifier.py)
+        run: |
+          source venv/bin/activate
+          python src/notifications/email_service.py
