@@ -32,8 +32,7 @@
     - ats: "iCIMS"
       url: "https://amazon.icims.com/jobs/search"
 
-
-- name:"Anomali"
+- name: "Anomali"
   feeds:
     - ats: "Lever"
       url: "https://api.lever.co/v0/postings/anomali"
@@ -756,4 +755,3 @@
   feeds:
     - ats: "Ashby"
       url: "https://api.ashbyhq.com/posting-api/job-board/ziprecruiter"
-
