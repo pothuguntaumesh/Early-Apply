@@ -32,6 +32,12 @@
     - ats: "iCIMS"
       url: "https://amazon.icims.com/jobs/search"
 
+
+- name:"Anomali"
+  feeds:
+    - ats: "Lever"
+      url: "https://api.lever.co/v0/postings/anomali"
+
 - name: "Anthropic"
   feeds:
     - ats: "Greenhouse"
@@ -83,6 +89,11 @@
     - ats: "Workday"
       url: "https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professional/jobs"
 
+- name: "Block"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/block/jobs"
+
 - name: "Bloomberg"
   feeds:
     - ats: "Workday"
@@ -114,6 +125,11 @@
   feeds:
     - ats: "Ashby"
       url: "https://api.ashbyhq.com/posting-api/job-board/candidhealth"
+
+- name: "Canonical"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/canonical/jobs"
 
 - name: "Citadel"
   feeds:
@@ -285,6 +301,11 @@
   feeds:
     - ats: "Workday"
       url: "https://grok.wd5.myworkdayjobs.com/Grok"
+
+- name: "Harvey"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/harvey"
 
 - name: "HashiCorp"
   feeds:
@@ -666,6 +687,11 @@
     - ats: "Lever"
       url: "https://api.lever.co/v0/postings/matchgroup"
 
+- name: "Together AI"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/togetherai/jobs"
+
 - name: "Truveta"
   feeds:
     - ats: "Greenhouse"
@@ -725,3 +751,9 @@
   feeds:
     - ats: "Workday"
       url: "https://yelp.wd5.myworkdayjobs.com/yelp"
+
+- name: "Zip"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/ziprecruiter"
+
