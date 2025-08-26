@@ -583,6 +583,11 @@
     - ats: "Greenhouse"
       url: "https://boards-api.greenhouse.io/v1/boards/reddit/jobs"
 
+- name: "Regrello"
+  feeds:
+    - ats: "Lever"
+      url: "https://api.lever.co/v0/postings/regrello"
+
 #Verified
 - name: "Rivian"
   feeds:
