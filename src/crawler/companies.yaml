@@ -120,6 +120,11 @@
     - ats: "Workday"
       url: "https://capitalone.wd1.myworkdayjobs.com/Capital_One"
 
+- name: "CardFlight"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/cardflight/jobs"
+
 - name: "Candid Health"
   feeds:
     - ats: "Ashby"
