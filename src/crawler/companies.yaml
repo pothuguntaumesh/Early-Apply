@@ -550,6 +550,11 @@
     - ats: "Lever"
       url: "https://api.lever.co/v0/postings/plaid"
 
+- name: "Point72"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/point72/jobs"
+
 - name: "Qualcomm"
   feeds:
     - ats: "Workday"
