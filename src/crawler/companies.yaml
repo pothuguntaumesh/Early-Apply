@@ -459,6 +459,11 @@
     - ats: "Workday"
       url: "https://jobs.netflix.com/search"
 
+- name: "Nextdoor"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/nextdoor/jobs"
+
 - name: "Nike"
   feeds:
     - ats: "Workday"
