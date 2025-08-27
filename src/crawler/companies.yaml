@@ -1,3 +1,8 @@
+- name: "Abridge"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/abridge"
+
 - name: "Addepar"
   feeds:
     - ats: "Greenhouse"
@@ -179,6 +184,11 @@
   feeds:
     - ats: "Custom"
       url: "https://www.coinbase.com/careers/search"
+
+- name: "Commure"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/Commure-Athelas"
 
 - name: "Credit Karma"
   feeds:
