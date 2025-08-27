@@ -155,6 +155,11 @@
     - ats: "Workday"
       url: "https://citrix.wd5.myworkdayjobs.com/Jobs"
 
+- name: "Clipboard Health"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/clipboard/jobs"
+
 - name: "Cloudera"
   feeds:
     - ats: "Workday"
@@ -526,6 +531,11 @@
   feeds:
     - ats: "Workday"
       url: "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+
+- name: "ObserveInc"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/observeinc"
 
 #Verified
 - name: "OpenAI"
