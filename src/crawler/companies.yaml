@@ -403,6 +403,11 @@
     - ats: "Workday"
       url: "https://linkedin.wd1.myworkdayjobs.com/linkedin"
 
+- name: "Loancrate"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/loancrate"
+
 - name: "Lucid Motors"
   feeds:
     - ats: "Greenhouse"
