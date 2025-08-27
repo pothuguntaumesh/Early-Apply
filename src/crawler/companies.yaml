@@ -603,6 +603,11 @@
     - ats: "Lever"
       url: "https://api.lever.co/v0/postings/regrello"
 
+- name: "Replo"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/replo"
+
 #Verified
 - name: "Rivian"
   feeds:
@@ -690,6 +695,11 @@
   feeds:
     - ats: "Lever"
       url: "https://api.lever.co/v0/postings/spotify"
+
+- name: "SpotOn"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/spoton/jobs"
 
 - name: "Square"
   feeds:
