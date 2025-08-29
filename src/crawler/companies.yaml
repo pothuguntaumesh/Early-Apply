@@ -682,8 +682,8 @@
 
 - name: "ServiceNow"
   feeds:
-    - ats: "Workday"
-      url: "https://servicenow.wd1.myworkdayjobs.com/nowcareers"
+    - ats: "SmartRecruiters"
+      url: "https://api.smartrecruiters.com/v1/companies/servicenow/postings"
 
 - name: "Sigma"
   feeds:
@@ -789,7 +789,7 @@
 - name: "Visa"
   feeds:
     - ats: "SmartRecruiters"
-      url: "https://visa.wd1.myworkdayjobs.com/Careers"
+      url: "https://api.smartrecruiters.com/v1/companies/visa/postings"
 
 - name: "VMware"
   feeds:
