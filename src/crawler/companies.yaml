@@ -459,6 +459,11 @@
     - ats: "Workday"
       url: "https://mckinsey.wd5.myworkdayjobs.com/McKinsey_Careers"
 
+- name: "Mercor"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/mercor"
+
 - name: "Meta"
   feeds:
     - ats: "Workday"
