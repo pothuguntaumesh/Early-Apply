@@ -600,6 +600,11 @@
     - ats: "Greenhouse"
       url: "https://boards-api.greenhouse.io/v1/boards/point72/jobs"
 
+- name: "Prelim"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/prelim"
+
 - name: "Qualcomm"
   feeds:
     - ats: "Workday"
