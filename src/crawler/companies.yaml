@@ -443,6 +443,11 @@
     - ats: "Ashby"
       url: "https://api.ashbyhq.com/posting-api/job-board/loancrate"
 
+- name: "Log Rocket"
+  feeds:
+    - ats: "Lever"
+      url: "https://api.lever.co/v0/postings/logrocket"
+
 - name: "Lucid Motors"
   feeds:
     - ats: "Greenhouse"
