@@ -768,8 +768,8 @@
 
 - name: "Stripe"
   feeds:
-    - ats: "Workday"
-      url: "https://stripe.wd1.myworkdayjobs.com/StripeCareers"
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/stripe/jobs"
 
 - name: "Tesla"
   feeds:
