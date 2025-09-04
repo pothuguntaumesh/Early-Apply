@@ -689,6 +689,10 @@
   feeds:
     - ats: "Greenhouse"
       url: "https://boards-api.greenhouse.io/v1/boards/Robinhood/jobs"
+- name: "Roblox"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/roblox/jobs"
 
 - name: "Rippling"
   feeds:
