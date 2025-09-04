@@ -609,6 +609,11 @@
     - ats: "Workday"
       url: "https://paypal.wd1.myworkdayjobs.com/External"
 
+- name: "Persona"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/persona"
+
 - name: "Pinterest"
   feeds:
     - ats: "Greenhouse"
