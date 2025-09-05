@@ -192,8 +192,8 @@
 
 - name: "Coinbase"
   feeds:
-    - ats: "Custom"
-      url: "https://www.coinbase.com/careers/search"
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/coinbase/jobs"
 
 - name: "Commure"
   feeds:
