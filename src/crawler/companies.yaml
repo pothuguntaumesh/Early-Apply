@@ -381,6 +381,11 @@
     - ats: "Custom"
       url: "https://boards.greenhouse.io/hudsonrivertrading"
 
+- name: "ID.me"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/idme/jobs"
+
 - name: "IBM"
   feeds:
     - ats: "Workday"
