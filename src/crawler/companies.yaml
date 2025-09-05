@@ -320,7 +320,13 @@
     - ats: "Workday"
       url: "https://fiserv.wd1.myworkdayjobs.com/Fiserv_Careers"
 
+- name: "Gecko Robotics"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/gecko-robotics"
+
 #Verified but Icims can't be automated
+
 - name: "GitHub"
   feeds:
     - ats: "Icims"
