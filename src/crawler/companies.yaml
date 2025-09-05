@@ -155,6 +155,11 @@
     - ats: "Greenhouse"
       url: "https://boards-api.greenhouse.io/v1/boards/canonical/jobs"
 
+- name: "Chewy"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/chewycom/jobs"
+
 - name: "Citadel"
   feeds:
     - ats: "Workday"
