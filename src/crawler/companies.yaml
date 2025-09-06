@@ -357,6 +357,11 @@
     - ats: "Workday"
       url: "https://grok.wd5.myworkdayjobs.com/Grok"
 
+- name: "HackerRank"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/hackerrank/jobs"
+
 - name: "Harvey"
   feeds:
     - ats: "Ashby"
