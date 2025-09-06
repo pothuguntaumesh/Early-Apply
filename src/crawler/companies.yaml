@@ -826,6 +826,11 @@
     - ats: "Greenhouse"
       url: "https://boards-api.greenhouse.io/v1/boards/twilio/jobs"
 
+- name: "Twitch"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/twitch/jobs"
+
 - name: "Uber"
   feeds:
     - ats: "Workday"
