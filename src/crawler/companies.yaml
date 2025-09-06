@@ -300,6 +300,11 @@
     - ats: "Workday"
       url: "https://expedia.wd5.myworkdayjobs.com/careers"
 
+- name: "Experian"
+  feeds:
+    - ats: "SmartRecruiters"
+      url: "https://api.smartrecruiters.com/v1/companies/experian/postings"
+
 - name: "EY"
   feeds:
     - ats: "Taleo"
@@ -656,6 +661,11 @@
     - ats: "Ashby"
       url: "https://api.ashbyhq.com/posting-api/job-board/prelim"
 
+- name: "Pylon"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/pylon"
+
 - name: "Qualcomm"
   feeds:
     - ats: "Workday"
@@ -698,6 +708,11 @@
   feeds:
     - ats: "Ashby"
       url: "https://api.ashbyhq.com/posting-api/job-board/replo"
+
+- name: "Retool"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/retool/jobs"
 
 #Verified
 - name: "Rivian"
@@ -885,6 +900,11 @@
   feeds:
     - ats: "Workday"
       url: "https://westerndigital.wd1.myworkdayjobs.com/External"
+
+- name: "XAI"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/xai/jobs"
 
 - name: "Yelp"
   feeds:
