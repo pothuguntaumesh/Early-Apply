@@ -67,7 +67,6 @@ class SmartRecruitersAdapter(Adapter):
                 offset += limit
 
         logger.info("%s – %d jobs", company, len(jobs))
-        print(f"Fetched {len(jobs)} jobs for {company}")
         return jobs
 
 
