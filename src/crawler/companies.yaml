@@ -28,7 +28,7 @@
 - name: "Altruist"
   feeds:
     - ats: "Greenhouse"
-      url: "https://boards-api.greenhouse.io/v1/boards/altruistai/jobs"
+      url: "https://boards-api.greenhouse.io/v1/boards/altruist/jobs"
 
 - name: "American Express"
   feeds:
@@ -919,4 +919,9 @@
 - name: "Zip"
   feeds:
     - ats: "Ashby"
-      url: "https://api.ashbyhq.com/posting-api/job-board/ziprecruiter"
+      url: "https://api.ashbyhq.com/posting-api/job-board/zip"
+
+- name: "ZScaler"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/zscaler/jobs"
