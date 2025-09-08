@@ -901,6 +901,11 @@
     - ats: "Workday"
       url: "https://westerndigital.wd1.myworkdayjobs.com/External"
 
+- name: "Whatnot"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/whatnot"
+
 - name: "XAI"
   feeds:
     - ats: "Greenhouse"
