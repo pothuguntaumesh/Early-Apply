@@ -765,6 +765,11 @@
     - ats: "Workday"
       url: "https://samsung.wd1.myworkdayjobs.com/Samsung_Careers"
 
+- name: "ScaleAI"
+  feeds:
+    - ats: "Greenhouse"
+      url: "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"
+
 - name: "ServiceNow"
   feeds:
     - ats: "SmartRecruiters"
