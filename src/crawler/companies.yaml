@@ -640,6 +640,11 @@
     - ats: "Ashby"
       url: "https://api.ashbyhq.com/posting-api/job-board/persona"
 
+- name: "Pear"
+  feeds:
+    - ats: "Ashby"
+      url: "https://api.ashbyhq.com/posting-api/job-board/pear"
+
 - name: "Pinterest"
   feeds:
     - ats: "Greenhouse"
