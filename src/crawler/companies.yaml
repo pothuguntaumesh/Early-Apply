@@ -205,6 +205,11 @@
     - ats: "Ashby"
       url: "https://api.ashbyhq.com/posting-api/job-board/Commure-Athelas"
 
+- name: "Concord"
+  feeds:
+    - ats: "Lever"
+      url: "https://api.lever.co/v0/postings/concordnow"
+
 - name: "Credit Karma"
   feeds:
     - ats: "Greenhouse"
